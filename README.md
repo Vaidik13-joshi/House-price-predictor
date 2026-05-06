@@ -25,6 +25,11 @@ Python • Streamlit • Scikit-learn • NumPy • Pandas
 
 ---
 
+## 📊 Exploratory Data Analysis (EDA)
+Performed detailed data analysis using Jupyter Notebook to understand patterns, correlations, and feature importance.
+
+👉 Check the notebook: EDA.ipynb
+
 ## 📊 Inputs
 
 Longitude • Latitude • House Age • Total Rooms • Bedrooms • Population • Households • Income
@@ -42,6 +47,7 @@ User inputs data → Model processes → Price predicted instantly
 House-Price-app/
 │── app.py
 │── model.pkl
+|── EDA.ipynb
 │── requirements.txt
 │── README.md
 
